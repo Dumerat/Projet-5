@@ -1,2 +1,13 @@
-Balise meta
+Balise meta fb + twitter + GOOGLE (script)
 alt image
+Structure titre
+
+
+
+-optimisation image et code
+-amélioration de l'accessibilité
+-correction code
+-changement contrast
+-audit Rich Snippet
+-méta description
+-
